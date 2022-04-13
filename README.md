@@ -34,8 +34,3 @@
 </p>
 
 
-
-<p hidden="true" align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubhm&theme=dark"
-        alt="abanoubhm" /></p>
-<p hidden="true" align="center"> <img  src="https://komarev.com/ghpvc/?username=abanoubhm&label=Profile%20views&color=0e75b6&style=flat"
-        alt="abanoubhm" /> </p>
